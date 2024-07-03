@@ -45,7 +45,7 @@ class FiniteDifferenceBS:
         ax.view_init(15, 50)
         plt.show()
 
-# Example usage
-fd_bs = FiniteDifferenceBS()
-fd_bs.run_simulation()
-fd_bs.plot_results()
+# # Example usage
+# fd_bs = FiniteDifferenceBS()
+# fd_bs.run_simulation()
+# fd_bs.plot_results()
